@@ -31,7 +31,7 @@ const Contact = () => {
                     to_email: "My Mail",
                     message: form.message,
                 },
-                "accountID"
+                "PUBLIC KEY"
             )
     };
 
