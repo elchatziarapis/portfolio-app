@@ -21,14 +21,14 @@ const Projects = () => {
         >
         <div className="flex space-x-4">
             <ProjectBox 
-                imageUrl = "https://img.game8.co/3242471/c834a093c0f91ccf92e8561f91b6adba.jpeg/show"
+                imageUrl = ""
                 title="Title"
                 description={loremIpsum.call()}
                 linkTo="hello"
             
             />
             <ProjectBox 
-                imageUrl = "https://img.game8.co/3242471/c834a093c0f91ccf92e8561f91b6adba.jpeg/show"
+                imageUrl = ""
                 title="Title"
                 description={loremIpsum.call()}
                 linkTo="hello"
